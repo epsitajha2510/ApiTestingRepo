@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11378" started-at="2020-08-01T13:05:40 IST" finished-at="2020-08-01T13:05:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11378" started-at="2020-08-01T13:05:40 IST" finished-at="2020-08-01T13:05:51 IST">
+      <class name="com.qa.dataDrivenTesting.TestPostDDT">
+        <test-method status="PASS" signature="postNewEmployee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.dataDrivenTesting.TestPostDDT@7d0587f1]" name="postNewEmployee" duration-ms="4073" started-at="2020-08-01T13:05:41 IST" data-provider="empDataProvider" finished-at="2020-08-01T13:05:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Salary]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Age]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployee -->
+        <test-method status="PASS" signature="postNewEmployee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.dataDrivenTesting.TestPostDDT@7d0587f1]" name="postNewEmployee" duration-ms="1045" started-at="2020-08-01T13:05:45 IST" data-provider="empDataProvider" finished-at="2020-08-01T13:05:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Epsita Jha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5675.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[23.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployee -->
+        <test-method status="PASS" signature="postNewEmployee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.dataDrivenTesting.TestPostDDT@7d0587f1]" name="postNewEmployee" duration-ms="1130" started-at="2020-08-01T13:05:46 IST" data-provider="empDataProvider" finished-at="2020-08-01T13:05:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Barun Das]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[675478.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[25.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployee -->
+        <test-method status="PASS" signature="postNewEmployee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.dataDrivenTesting.TestPostDDT@7d0587f1]" name="postNewEmployee" duration-ms="1189" started-at="2020-08-01T13:05:47 IST" data-provider="empDataProvider" finished-at="2020-08-01T13:05:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Roshni Das]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[56789.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[29.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployee -->
+        <test-method status="PASS" signature="postNewEmployee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.dataDrivenTesting.TestPostDDT@7d0587f1]" name="postNewEmployee" duration-ms="2923" started-at="2020-08-01T13:05:48 IST" data-provider="empDataProvider" finished-at="2020-08-01T13:05:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Saikat Jha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[65432.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[19.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployee -->
+      </class> <!-- com.qa.dataDrivenTesting.TestPostDDT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
